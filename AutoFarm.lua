@@ -30,4 +30,4 @@
 getgenv().autorob = true
 
 --// loadstring
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ducky696/scripts/main/jailbreak/AutoFarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ducky696/scripts/main/jailbreak/farm.lua"))()
